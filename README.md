@@ -7,7 +7,9 @@
 
 ### Sprint 1
 
-Goal: [Describe the result you want.]
+Goal: [GAME Describe .]
+- it he click on any later he will see if its rite or no if its rite he will see it in the line for the anser and if it rong he will see part of humen he will click again and if its rong ahain he will see another part if he have alote of mistak he will see it hangs
 
-Start: [Date]
+
+Start: [16 / 11 / 2026]
 End: [Date]
